@@ -9,4 +9,8 @@ public class helloWorld {
     //step8
     //step 9
   //  step10
+    public static void main(String[] args) {
+        //aa
+        System.out.println("ytd");
+    }
 }
